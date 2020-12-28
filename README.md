@@ -1,2 +1,3 @@
 # Facial Expression Recognition
- Facial Expression Recognition Usine CNN
+## It contains only output of project
+## Data Cleaning, Data Sorting, CNN Model is not provided
